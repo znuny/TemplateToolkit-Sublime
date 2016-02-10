@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[[% USE ${1:plugin}(${2:args}) %]
+]]></content>
+  <description>USE</description>
+  <tabTrigger>use</tabTrigger>
+  <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[[% FOREACH ${1:item} IN ${2:list...} %]
+   ${3:block...}
+[% END %]
+]]></content>
+  <description>FOREACH</description>
+  <tabTrigger>for</tabTrigger>
+  <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<snippet>
+  <content><![CDATA[[% INCLUDE ${1:template} ${2:args...} %]
+]]></content>
+  <description>INCLUDE args</description>
+  <tabTrigger>inca</tabTrigger>
+  <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
+</snippet>
