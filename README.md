@@ -1,6 +1,6 @@
 ![Znuny logo](http://znuny.com/assets/logo_small.png)
 
-# TemplateToolkit syntax for Sublime Text
+# TemplateToolkit syntax and snippets for Sublime Text
 
 Provides syntax highlighting for `.tt`, `.tt2`, `.tt3`, `.html` and `.css`  files along along with snippets.
 
