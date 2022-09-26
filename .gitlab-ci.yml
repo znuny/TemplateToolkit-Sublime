@@ -1,0 +1,6 @@
+include:
+  - project: 'Znuny/Internal/Znuny'
+    file: '/templates/gitlab/base.yml'
+
+stages:
+  - deploy
