@@ -1,4 +1,4 @@
-![Znuny logo](http://znuny.com/assets/logo_small.png)
+![Znuny logo](http://znuny.com/assets/images/logo_small.png)
 
 # TemplateToolkit syntax and snippets for Sublime Text
 
@@ -39,15 +39,15 @@ To install this plugin, you have three options:
 * CALL
 * DEFAULT
 * END
-* Foreach
+* FOREACH
 * GET
 * IF ELSE
 * IF ELSIF ELSE
 * IF ELSIF
 * IF
 * INSERT
-* Include args
-* Include
+* INCLUDE args
+* INCLUDE
 * MACRO
 * PROCESS args
 * PROCESS
@@ -73,7 +73,7 @@ Via (see snippet_converter.rb):
 
 ### Commercial Support
 
-For this extension and for OTRS in general visit [http://znuny.com](http://znuny.com). Looking forward to hear from you!
+For this extension and for Znuny in general visit [http://znuny.com](http://znuny.com). Looking forward to hear from you!
 
 Enjoy!
 

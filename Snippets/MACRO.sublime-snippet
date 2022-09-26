@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <snippet>
-  <content><![CDATA[[% MACRO ${1:name}
-         ${2:directive}
+    <content><![CDATA[[% MACRO ${1:name}
+    ${2:directive}
 %]
 ]]></content>
-  <description>MACRO</description>
-  <tabTrigger>macro</tabTrigger>
-  <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
+    <description>MACRO</description>
+    <tabTrigger>macro</tabTrigger>
+    <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
 </snippet>

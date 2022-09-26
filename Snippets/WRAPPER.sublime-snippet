@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <snippet>
-  <content><![CDATA[[% WRAPPER ${1:template} %]
-   ${3:content...}
+  	<content><![CDATA[[% WRAPPER ${1:template} %]
+    ${3:content...}
 [% END %]
 ]]></content>
-  <description>WRAPPER</description>
-  <tabTrigger>wrap</tabTrigger>
-  <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
+    <description>WRAPPER</description>
+    <tabTrigger>wrapper</tabTrigger>
+    <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
 </snippet>

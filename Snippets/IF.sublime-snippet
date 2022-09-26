@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <snippet>
-  <content><![CDATA[[% IF ${1:expr} %]
-   ${3:block...}
+    <content><![CDATA[[% IF ${1:expr} %]
+    ${3:block...}
 [% END %]
 ]]></content>
-  <description>IF</description>
-  <tabTrigger>if</tabTrigger>
-  <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
+    <description>IF</description>
+    <tabTrigger>if</tabTrigger>
+    <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
 </snippet>

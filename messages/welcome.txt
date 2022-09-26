@@ -1,0 +1,15 @@
+⭐ Congratulations ⭐
+
+TemplateToolkit is a Sublime Text 2/3 plugin that provides syntax highlighting for `.tt`, `.tt2`, `.tt3`, `.html` and `.css` files.
+
+You have to do nothing now. Just check out the list of fancy sublime autocompletion.
+
+GitHub link - https://github.com/znuny/TemplateToolkit-Sublime
+
+Enjoy!
+Your Znuny Team! 🚀
+
+-------------------
+
+🌟 Version 1.0.1 🌟
+✔ Updated, refactored and improved all TemplateToolkit snippets.

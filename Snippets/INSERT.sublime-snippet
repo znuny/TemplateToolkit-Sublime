@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <snippet>
-  <content><![CDATA[[% INSERT ${1:template} %]
+    <content><![CDATA[[% INSERT ${1:template} %]
 ]]></content>
-  <description>INSERT</description>
-  <tabTrigger>ins</tabTrigger>
-  <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
+    <description>INSERT</description>
+    <tabTrigger>insert</tabTrigger>
+    <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
 </snippet>

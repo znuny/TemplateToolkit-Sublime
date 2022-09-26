@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <snippet>
-  <content><![CDATA[[% BLOCK ${1:name} %]
-   ${2:block...}
+    <content><![CDATA[[% BLOCK ${1:name} %]
+    ${2:block...}
 [% END %]
 ]]></content>
-  <description>BLOCK</description>
-  <tabTrigger>block</tabTrigger>
-  <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
+    <description>BLOCK</description>
+    <tabTrigger>block</tabTrigger>
+    <scope>text.html.tt2,text.html.tt3,source.tt2,source.tt3</scope>
 </snippet>
