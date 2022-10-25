@@ -1,6 +1,3 @@
 include:
-  - project: 'Znuny/Internal/Znuny'
-    file: '/templates/gitlab/base.yml'
-
-stages:
-  - deploy
+  - project: $INCLUDE_PROJECT
+    file: '/templates/gitlab/deploy.yaml'
